@@ -1,0 +1,11 @@
+include correlation_heatmap/correlation_heatmap.min.js
+include correlation_heatmap/correlation_heatmap.min.js.map
+include correlation_heatmap/async-*.js
+include correlation_heatmap/async-*.js.map
+include correlation_heatmap/*-shared.js
+include correlation_heatmap/*-shared.js.map
+include correlation_heatmap/metadata.json
+include correlation_heatmap/package-info.json
+include README.md
+include LICENSE
+include package.json

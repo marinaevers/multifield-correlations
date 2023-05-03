@@ -1,0 +1,11 @@
+include multi_field_map_view/multi_field_map_view.min.js
+include multi_field_map_view/multi_field_map_view.min.js.map
+include multi_field_map_view/async-*.js
+include multi_field_map_view/async-*.js.map
+include multi_field_map_view/*-shared.js
+include multi_field_map_view/*-shared.js.map
+include multi_field_map_view/metadata.json
+include multi_field_map_view/package-info.json
+include README.md
+include LICENSE
+include package.json

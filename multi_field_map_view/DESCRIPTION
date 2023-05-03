@@ -1,0 +1,13 @@
+Package: multiFieldMapView
+Title: This component allows to visualize a map with different regions in an overlay
+Version: 0.0.1
+Description: This component allows to visualize a map with different regions in an overlay
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+KeepSource: true

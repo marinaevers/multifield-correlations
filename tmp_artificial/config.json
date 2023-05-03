@@ -1,0 +1,16 @@
+{
+  "fields": [
+    "f1", "f2"
+  ],
+  "dPath": "../tmp_artificial/distances.npy",
+  "segmentationPath": "../tmp_artificial/",
+  "numRuns": 10,
+  "correlationsPath": "../tmp_artificial/correlations.dat",
+  "segmentPointsPath": "../tmp_artificial/segmentPoints.json",
+  "segmentMedianPath": "../tmp_artificial/segmentMedian.json",
+  "monthly": false,
+  "x": 32,
+  "y": 16,
+  "allSeriesAvailable": true,
+  "cmap": {"f1": "#D62728", "f2": "#1F77B4"}
+}
