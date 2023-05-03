@@ -12,6 +12,8 @@ If you use our approach, please cite our paper.
 Bibtex will be added later.
 ```
 
+![Screenshot](screenshot.png)
+
 ## Requirements
 
 - Python < 3.11 (e.g. https://www.python.org/downloads/release/python-31010/)
