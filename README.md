@@ -70,8 +70,7 @@ To load the data into the application, choose "Select Dataset" and choose the co
 
 ### UMAP Embedding
 For navigating in the visualization, the standard Plotly graph navigation tools can be used (see their documentation for further information, if necessary). When selecting points either with the lasse selection or the box selection, the corresponding segments are shown in the map view and will be used for the other visualizations as well.
-
-TODO Annotationsy
+After selecting a set of points by using the lasso tool, the corresponding region can be annotated by using the text area and the buttons below the embedding.
 
 ### Map view
 To select spatial regions for a correlation analysis, draw a lasso selection on the map. The corresponding segments will be selected automatically.
