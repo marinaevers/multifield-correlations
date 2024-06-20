@@ -6,10 +6,19 @@ More information can be found in the paper *Interactive Visual Analysis of Regio
 Multi-field Climate Ensembles* by Marina Evers, Michael Böttinger and Lars Linsen.
 
 If you use our approach, please cite our paper.
-> (Citation added later)
+> Evers, M., Böttinger, M. and Linsen, L. (2023), UInteractive Visual Analysis of Regional Time Series Correlation in Multi-field Climate Ensembles. Workshop on Visualisation in Environmental Sciences (EnvirVis), https://doi.org/10.2312/envirvis.2023110
 
 ```
-Bibtex will be added later.
+@inproceedings{multiFieldCorrelation,
+  author = {Evers, Marina and Böttinger, Michael and Linsen, Lars},
+  title = {{Interactive Visual Analysis of Regional Time Series Correlation in Multi-field Climate Ensembles}},
+  booktitle = {Workshop on Visualisation in Environmental Sciences (EnvirVis)},
+  editor = {Dutta, Soumya and Feige, Kathrin and Rink, Karsten and Zeckzer, Dirk},
+  year = {2023},
+  publisher = {The Eurographics Association},
+  ISBN = {978-3-03868-223-3},
+  DOI = {10.2312/envirvis.20231108}
+}
 ```
 
 ![Screenshot](screenshot.png)
